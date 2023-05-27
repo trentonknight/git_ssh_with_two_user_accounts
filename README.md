@@ -67,6 +67,18 @@ Or update a previously-cloned repo:
 ```bash
 git remote set-url origin git@bravo.gitlab.com:gitlab-org/gitlab.git
 ```	
+Or on Github 
+
+```bash
+git remote remove origin
+```
+
+```bash
+ git remote add origin git@alpha:trentonknight/git_ssh_with_two_user_accounts.git
+
+```
+
+
 
 ### Origin issues
 
