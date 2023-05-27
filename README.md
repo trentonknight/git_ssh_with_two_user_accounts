@@ -67,7 +67,7 @@ Or update a previously-cloned repo:
 ```bash
 git remote set-url origin git@bravo.gitlab.com:gitlab-org/gitlab.git
 ```	
-Or on Github 
+Or on Github Example 
 
 ```bash
 git remote remove origin
